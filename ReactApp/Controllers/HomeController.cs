@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace ReactApp.Controllers
 {   
     ///Add comments
-    ///
+    /// Adding new file
     public class HomeController : Controller
     {
         public IActionResult Index()
