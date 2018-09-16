@@ -9,6 +9,9 @@ namespace ReactApp.Controllers
 {   
     ///Add comments
     /// Adding new file
+    /// Another comments
+    ///new line to test branch
+    // another addition
     public class HomeController : Controller
     {
         public IActionResult Index()
