@@ -9,6 +9,7 @@ namespace ReactApp.Controllers
 {   
     ///Add comments
     /// Adding new file
+    /// Another comments
     public class HomeController : Controller
     {
         public IActionResult Index()
